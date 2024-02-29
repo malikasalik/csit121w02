@@ -1,1 +1,12 @@
-
+body {background-color: #FFF0F5;}
+h1 {font-family: Monaco; color: #B0C4DE;
+text-transform: uppercase;}
+ul {font-family: Monaco; color:#B0C4DE}
+h2 {font-family: Monaco; color: #D8BFD8}
+ol {font-family: Monaco; color:#B0C4DE}
+h3 {font-family: "Serif"; color: #4682B4}
+p {font-family: Monaco; color:#FFB6C1}
+p {Margin: 70Px;}
+img {border-radius: 30%;
+    display: block;
+    margin: auto;}
