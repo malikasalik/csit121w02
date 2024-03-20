@@ -1,0 +1,32 @@
+body {background-color: #FFF0F5;}
+    h1 {font-family: Monaco; color: #B0C4DE;
+    text-align: center; font-size: 2rem; font-weight: bold;
+    text-transform: uppercase;}
+    ul {font-family: Monaco; color:#B0C4DE;}
+    h2 {font-family: Monaco; color: #D8BFD8;
+    text-align: center; margin: 50px;
+    display: flex}
+    ol {font-family: Monaco; color:#B0C4DE;}
+    h3 {font-family: "Serif"; color: #4682B4;
+        margin-left: 20px
+    }
+    li {margin: 20px;}
+    p {font-family: Monaco; color:#FFB6C1;
+        margin: 70x; display: flex;}
+    img {border-radius: 30%;
+        display: block;
+       margin: auto;
+    }
+div{display: flex;
+width: 100%;}
+#Ingredients {width: 50%;}
+#recipe {width: 70%;}
+.hi {display: flex; flex-direction: column; border: 2px solid palevioletred; margin: 15px; padding: 15px; }
+.idek {border: 2px solid palevioletred; margin: 15px; padding: 15px}
+.long {padding-bottom: 697px;}
+a {color: #B0C4DE;}
+a:visited{color:paleturquoise;}
+a:hover{color:#D8BFD8;}
+.long {padding-bottom: 697px;}
+.melon {
+  padding-left: 15px;}
