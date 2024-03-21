@@ -34,10 +34,7 @@ a:hover {
 #current {
   background-color: white;
 }
-.images {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
+
 }
 .butterfly {
   margin: 3px;
@@ -63,26 +60,8 @@ color: white;}
 p {background-color: #D0C1C6;
 color: white;}
 
-form {
-  color: #5f3a55;
-  border: 15px outset rgb(190, 174, 224);
-  background-color: #fbf2fb;
-  padding: 100px;
-  margin: 20px;
-  width: 50%;
-  font-family:'Times New Roman', Times, serif;}
+
   p {text-align: center;
   width: 100%; 
   font-size: 25px;}
-.size {
-  font-size: 50px;
-}
-tr:nth-child(even) {
-  background-color: #FFF4FD ;
-}
-tr:nth-child(odd) {
-  background-color: white;
-}
-th {color:#DCCAD9  ;}
-table {font-size: 30px;
-text-align: center;}
+
