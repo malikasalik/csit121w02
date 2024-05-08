@@ -1,1 +1,156 @@
+body {background-color:peachpuff;}
+h1 {color:brown}
+h2 {color:brown}
+h3 {color:darkorange}
+li {color:firebrick}
+p{color:firebrick}
+.parent {
 
+      border: 1px solid black;
+    
+      margin: 1rem;
+    
+      padding: 2rem 2rem;
+    
+    }
+    
+    
+    
+    .child {
+    
+      display: inline-block;
+    
+      padding: 1rem 1rem;
+    
+      vertical-align: middle;
+    
+    }
+    
+    
+    
+    .container {
+    
+      width: 80%;
+    
+      margin: auto;
+    
+    }
+    
+    .columns {
+    
+      display: flex;
+    
+    }
+    
+    
+    
+    header,
+    
+    main {
+    
+      display: flex;
+    
+    }
+    
+    
+    
+    header {
+    
+      flex-direction: column;
+    
+    }
+    
+    
+    
+    main {
+    
+      flex-direction: row;
+    
+    }
+    
+    
+    
+    section {
+    
+      margin-right: 20px;
+    
+    }
+    
+    
+    
+    body {
+    
+      background-color: #DECEC7;
+    
+    }
+    
+    
+    
+    h1 {
+    
+      color: #4D4846;
+    
+      text-transform: uppercase;
+    
+    }
+    
+    
+    
+    h2 {
+    
+      font-family: "Times New Roman";
+    
+      color: #B3A7A1;
+    
+    }
+    
+    
+    
+    h3 {
+    
+      font-family: "Blackadder ITC";
+    
+      color: #4D4846;
+    
+    }
+    
+    
+    
+    p {
+    
+      margin: 70px ;
+    
+      font-family: "Courier New", monospace;
+    
+      color: #4D4846;
+    
+    }
+    
+    
+    
+    a:hover {
+    
+      color: #4D4846;
+    
+    }
+    
+    
+    
+    a:visited {
+    
+      color: #918683;
+    
+    }
+    
+    @media only screen and (min-width: 786px) {
+    
+      .columns {
+    
+        display: grid;
+    
+        grid-gap: 20px;
+    
+        font-size: 50px;
+    
+    }
+    img{display:block;margin: 0 auto;}
