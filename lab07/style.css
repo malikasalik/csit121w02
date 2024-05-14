@@ -1,3 +1,4 @@
+body {background-color: #d9eadb;}
 h1 {text-align: center;
 color: #617c54;
 font-family: Georgia, 'Times New Roman', Times, serif;}
@@ -18,7 +19,7 @@ th {
 
 
 tr:hover {
-    background-color: #E0EDDA;
+    background-color: #adc5a1;
 }
 
 .span {
