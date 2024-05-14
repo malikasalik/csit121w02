@@ -1,0 +1,88 @@
+body {background: linear-gradient(45deg, rgb(249, 215, 221) 50%, #361f33, rgb(245, 191, 245));
+  min-height: 700px;
+}
+section {
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: space-between;
+  background: #D6BBD2;
+}
+h1 {
+  text-align: center;
+  margin: auto;
+  color: white;
+  font-size: 50px;
+}
+.title {
+  justify-content: center;
+}
+a {
+  color: #914687 ;
+  text-decoration: none;
+  display: block;
+  width: 25%;
+}
+a:hover {
+  color: #FF1670;
+}
+.menu {
+  margin: 10px;
+  line-height: 50px;
+  display: flex;
+  text-align: center;
+}
+#current {
+  background-color: white;
+}
+.images {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.butterfly {
+  margin: 3px;
+  background-color: white;
+  padding: 20px;
+  text-align: center;
+}
+.card {flex-direction: row;
+margin: 15px;
+padding: 15px;
+background-color: white;
+justify-content: space-around;}
+.caption {width: 100%;
+width:50%}
+.click {background-color: rgb(228, 176, 228);
+width: 200px;
+line-height: 50px;
+text-align: center;
+margin: auto;
+color: white;}
+.click:hover {background-color:#a71546;
+color: white;}
+p {background-color: #D0C1C6;
+color: white;}
+
+form {
+  color: #5f3a55;
+  border: 15px outset rgb(190, 174, 224);
+  background-color: #fbf2fb;
+  padding: 100px;
+  margin: 20px;
+  width: 50%;
+  font-family:'Times New Roman', Times, serif;}
+  p {text-align: center;
+  width: 100%; 
+  font-size: 25px;}
+.size {
+  font-size: 50px;
+}
+tr:nth-child(even) {
+  background-color: #FFF4FD ;
+}
+tr:nth-child(odd) {
+  background-color: white;
+}
+th {color:#DCCAD9  ;}
+table {font-size: 30px;
+text-align: center;}
