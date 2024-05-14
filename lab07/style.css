@@ -1,0 +1,33 @@
+h1 {text-align: center;
+color: #617c54;
+font-family: Georgia, 'Times New Roman', Times, serif;}
+table {
+    width: 80%;
+    margin: 20px auto;
+  border-collapse: collapse;}
+
+th, td {
+    padding: 10px;
+    border-bottom: 1px solid #031703;
+}
+
+th {
+    background-color: #819A80;
+}
+
+
+
+tr:hover {
+    background-color: #E0EDDA;
+}
+
+.span {
+    background-color: #B1D1B0
+}
+
+img {
+    border-radius: 15%;
+    display: block;
+    margin: auto;
+    width: 15% ;
+  }
